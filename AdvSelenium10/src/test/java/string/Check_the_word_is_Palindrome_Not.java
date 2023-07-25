@@ -1,5 +1,5 @@
 package string;
-
+//pullbacktoeclips
 public class Check_the_word_is_Palindrome_Not 
 {
 	public static void main(String[] args) {
